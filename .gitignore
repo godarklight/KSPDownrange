@@ -1,0 +1,7 @@
+*.orig
+*.dll
+*.userprefs
+KSPDownrange/bin/*
+KSPDownrange/obj/*
+*.suo
+*.csproj.user
